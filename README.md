@@ -3,6 +3,9 @@
 
 # Implementation
 ```
+Source:
+maven { url 'https://jitpack.io' }
+  
 # Groovy
 implementation 'com.github.tim06:Ratingbar:0.0.1'
 
